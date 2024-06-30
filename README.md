@@ -7,13 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Instructions pou éxecuter l'application
 
--Npm install
--npm run dev
--php artisan serve
--http://127.0.0.1:8000
--Connectez vous avec l'email :rh@tuniscallcenter.com / mdp: rh123456 .
 
 
 ## About Laravel
@@ -73,3 +67,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Instructions pou éxecuter l'application
+
+-Npm install
+-npm run dev
+-php artisan serve
+-http://127.0.0.1:8000
+-Connectez vous avec l'email :rh@tuniscallcenter.com / mdp: rh123456 .
